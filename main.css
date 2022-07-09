@@ -1,0 +1,88 @@
+/* resume top */
+.name{
+    text-align: center;
+    font-size: 40px;
+    color: solid black;
+    margin-bottom: 5px;
+}
+.gradient{
+    background: linear-gradient(to right, rgb(86, 86, 247),rgb(0, 255, 255));
+    height: 30px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-top: 15px;
+}
+.contactdetails{
+    display: flex;
+    justify-content: space-evenly;
+    }
+.contactdetails i{
+    margin-right: 7px;
+}
+.contactdetails,a{
+    color: rgb(0, 183, 255);
+    text-decoration: none;
+}
+.contact{
+    padding-top: 15px;
+}
+
+/*summary*/
+.summary{
+    margin: 20px 0px 0px 20px;
+}
+
+/*key skills*/
+.keyskills{
+    margin: 20px 0px 0px 20px;
+}
+.list{
+    padding-left: 15px;
+}
+
+/*Technical skills*/
+.technical{
+    margin: 20px 0px 0px 20px;  
+}
+.tech{
+    margin-top: 10px;
+    padding: 10px;
+}
+
+/*Professional Experience*/
+.professional{
+    margin: 20px 0px 0px 20px; 
+}
+.experience{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.work{
+    padding: 10px;
+}
+
+/*Education*/
+.education{
+    margin: 20px 0px 0px 20px;
+}
+.degree{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+/*end line*/
+.endline{
+    height: 3px;
+    background: linear-gradient(to right, rgb(86, 86, 247),rgb(0, 255, 255));
+    margin-top: 10px;
+}
+
+.endline1{
+    height: 7px;
+    background: linear-gradient(to right, rgb(86, 86, 247),rgb(0, 255, 255));
+    margin: 12px;
+}
+
